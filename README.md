@@ -14,13 +14,13 @@ Analizar el comportamiento de las ventas considerando distintos factores como pr
 
 # Contenido del dashboard
 El dashboard incluye diferentes apartados para visualizar la información de manera más clara:
- 1. Ventas por producto
+ 1. **Ventas por producto**:
 Se presenta un ranking con los 8 productos más vendidos, permitiendo identificar cuáles generan mayores ingresos y tienen mejor desempeño comercial.
-2. Ventas por año
+2. **Ventas por año**:
 Se analiza la evolución de las ventas durante los años 1996, 1997 y 1998, observando los cambios y tendencias en distintos periodos mensuales.
-3. Ventas por país
+3. **Ventas por país**:
 Se utiliza un mapa interactivo para mostrar la distribución geográfica de las ventas, destacando los países y regiones con mayor participación comercial, principalmente Europa y América.
-4. Tiempo de entrega
+4. **Tiempo de entrega**:
 Se comparan los tiempos de entrega por año mediante diferentes categorías de días (1, 4, 8, 16 y 23 días), permitiendo evaluar el desempeño logístico y su posible impacto en la satisfacción del cliente.
 
 ## Herramientas utilizadas
